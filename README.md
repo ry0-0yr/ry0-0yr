@@ -31,14 +31,6 @@
 
 ---
 
-## 連絡先
-
-- Email: your-email@example.com
-- Twitter: @your_handle
-- LinkedIn: your-linkedin
-
----
-
 カスタマイズのヒント:
 - 名前や肩書き、プロジェクトの説明・リンクを自分の情報で置き換えてください。
 - 必要に応じてバッジや行動履歴（GitHub Stats）を追加すると見栄えが良くなります。
